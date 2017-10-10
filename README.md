@@ -3,7 +3,7 @@ Research on relevant literature on malicious activity detection in networked env
 It's kind of Wireshark. 
 Collect computer's data traffics.
 
-![Screenshot](https://drive.google.com/file/d/0B9YdHlM73kRaNXhTamJjOUZEaHc/view?usp=sharing)
+[![network_collector.png](https://s1.postimg.org/53opvwyi1r/network_collector.png)](https://postimg.org/image/5ebjp2dq6z/)
 
 
-![Screenshot](https://drive.google.com/open?id=0B9YdHlM73kRadXZIbm9QeElZc1k)
+[![collector.png](https://s1.postimg.org/2u5pcflwsf/collector.png)](https://postimg.org/image/9fnj3gpyrf/)
